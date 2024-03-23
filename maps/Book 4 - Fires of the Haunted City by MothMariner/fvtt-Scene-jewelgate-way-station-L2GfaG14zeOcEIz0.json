@@ -1,0 +1,352 @@
+{
+  "folder": "EaVsK0WtMDibUGhv",
+  "name": "Jewelgate Way Station",
+  "navigation": false,
+  "navOrder": 506511,
+  "navName": "",
+  "background": {
+    "src": "https://assets.forge-vtt.com/6010a74232fe9fbc00276f28/age-of-ashes4/mothmariner/01.%20Jewelgate%20Way%20Station.webp",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "https://assets.forge-vtt.com/6010a74232fe9fbc00276f28/base64data/Scene/278a29b751fb7619383fab940f5b8ba3.webp",
+  "width": 1200,
+  "height": 900,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#343434",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.1,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1686271026580,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 1,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "drawings": [],
+  "tokens": [],
+  "lights": [
+    {
+      "_id": "vnjU5lL3GylvPdL9",
+      "x": 1300,
+      "y": 750,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 15,
+        "coloration": 1,
+        "dim": 41,
+        "attenuation": 0.55,
+        "luminosity": 0.5,
+        "saturation": 0.9,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "rainbowswirl",
+          "speed": 3,
+          "intensity": 6,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#696969"
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "eQlGAe2QJOsYaAHY",
+      "x": 450,
+      "y": 750,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.3,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 15,
+        "attenuation": 0.65,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "pulse",
+          "speed": 6,
+          "intensity": 2,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#424b4d"
+      },
+      "hidden": false,
+      "flags": {}
+    }
+  ],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "fXJ5ROHxJTu4p8Oi",
+      "c": [
+        400,
+        600,
+        600,
+        400
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "ajwpYP9j1sx1aNRX",
+      "c": [
+        600,
+        400,
+        1200,
+        400
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "29UPSGKEsBkILRKV",
+      "c": [
+        1200,
+        400,
+        1400,
+        600
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "WJswbsC3C6rx7CXZ",
+      "c": [
+        1400,
+        600,
+        1400,
+        900
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "a0pxGCANaOA7LjzI",
+      "c": [
+        1400,
+        900,
+        1200,
+        1100
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "TmQvzLK7st5N88aR",
+      "c": [
+        1200,
+        1100,
+        600,
+        1100
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "J8c5SH9T4fPJmmC3",
+      "c": [
+        600,
+        1100,
+        400,
+        900
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    },
+    {
+      "_id": "EeqTPeRCpPnmokgw",
+      "c": [
+        400,
+        900,
+        400,
+        600
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      }
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "smalltime": {
+      "darkness-link": false,
+      "player-vis": "2"
+    },
+    "perfect-vision": {
+      "fogRevealed": false,
+      "daylightColor": "",
+      "darknessColor": ""
+    },
+    "enhanced-terrain-layer": {
+      "opacity": "",
+      "multiple": null,
+      "elevation": null,
+      "depth": null,
+      "environment": "",
+      "drawcolor": ""
+    },
+    "zoom-pan-options": {
+      "minZoom": null,
+      "maxZoom": null
+    },
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null
+    },
+    "exportSource": {
+      "world": "age-of-ashes",
+      "system": "pf2e",
+      "coreVersion": "11.315",
+      "systemVersion": "5.14.4"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "5.13.4",
+    "coreVersion": "11.315",
+    "createdTime": 1686271026617,
+    "modifiedTime": 1707441194117,
+    "lastModifiedBy": "ecNIdVkbztMGycNZ"
+  },
+  "stairways": []
+}
