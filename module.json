@@ -39,6 +39,6 @@
       "private": false
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/blob/main/module.json",
   "download": "https://github.com/Kalnix/age-of-ashes-map-remakes/archive/refs/heads/main.zip"
 }
