@@ -6,8 +6,7 @@
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Kalnix",
-      "flags": {}
+      "name": "Kalnix"
     }
   ],
   "compatibility": {
@@ -37,8 +36,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "private": false,
-      "flags": {}
+      "private": false
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/main/module.json",
