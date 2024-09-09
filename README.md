@@ -10,3 +10,5 @@ Book 3 maps recreated by MothMariner using Inkarnate
 Book 4 maps recreated by MothMariner using DungeonDraft and Crosshead assets
 
 Books 5 and 6 recreated by Kalnix using DungeonDraft with Forgotten Adventure assets
+
+Created using the CUP of Paizo
