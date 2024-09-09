@@ -1,44 +1,33 @@
 {
   "id": "age-of-ashes=map-remakes",
   "title": "Age of Ashes Map Remakes",
-  "description": "Map remakes for the Age of Ashes Adventure Path by Paizo.",
-  "url": "https://github.com/Kalnix/age-of-ashes-map-remakes",
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "Kalnix"
-    }
-  ],
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "relationships": {
-    "systems": [
-      {
-        "id": "pf2e",
-        "type": "system",
-        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "6.3.1"
-        }
-      }
-    ]
-  },
+  "description": "Map remakes for the Age of Ashes Adventure Path by Paizo.",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "discord": "kalnix",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Kalnix/age-of-ashes-map-remakes",
   "packs": [
     {
-      "label": "Age of Ashes Map Remakes",
-      "type": "Scene",
       "name": "age-of-ashes-map-remakes",
+      "label": "Age of Ashes Map Remakes",
       "path": "packs/age-of-ashes-map-remakes",
-      "system": "pf2e",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "private": false
+      "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/blob/main/module.json",
-  "download": "https://github.com/Kalnix/age-of-ashes-map-remakes/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/main/module.json",
+  "download": "https://github.com/Kalnix/the-harrowing-map-remakes-by-kalnix/archive/refs/heads/main.zip"
 }
