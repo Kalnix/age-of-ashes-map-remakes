@@ -1,0 +1,46 @@
+{
+  "id": "age-of-ashes=map-remakes",
+  "title": "Age of Ashes Map Remakes",
+  "description": "Map remakes for the Age of Ashes Adventure Path by Paizo.",
+  "url": "https://github.com/Kalnix/age-of-ashes-map-remakes",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "6.3.1"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Age of Ashes Map Remakes",
+      "type": "Scene",
+      "name": "age-of-ashes-map-remakes",
+      "path": "packs/age-of-ashes-map-remakes",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Kalnix/age-of-ashes-map-remakes/main/module.json",
+  "download": "https://github.com/Kalnix/age-of-ashes-map-remakes/archive/refs/heads/main.zip"
+}
